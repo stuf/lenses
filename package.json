@@ -1,0 +1,13 @@
+{
+  "name": "lenses",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "partial.lenses": "^14.17.0",
+    "ramda": "^0.28.0"
+  },
+  "devDependencies": {
+    "prettier": "^2.6.2"
+  }
+}
